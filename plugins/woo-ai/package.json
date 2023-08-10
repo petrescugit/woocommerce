@@ -33,7 +33,7 @@
 		"@woocommerce/ai": "workspace:0.1.0-beta.0",
 		"@woocommerce/components": "workspace:*",
 		"@woocommerce/tracks": "workspace:*",
-		"@wordpress/api-fetch": "wp-6.0",
+		"@wordpress/api-fetch": "6.35.0",
 		"@wordpress/components": "wp-6.0",
 		"@wordpress/compose": "wp-6.0",
 		"@wordpress/element": "wp-6.0",
